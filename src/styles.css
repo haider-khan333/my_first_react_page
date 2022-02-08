@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap");
+
+.react-image {
+  width: 50px;
+}
+
+.app {
+  height: 30em;
+  margin-top: 5em;
+  width: 30em;
+}
+
+.header-nav-items {
+  padding: 30px;
+  background-color: #21222a;
+}
+
+.react-facts {
+  color: #5dd2f1;
+  padding: 10px;
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.react-course {
+  position: relative;
+  float: right;
+  margin-top: 13px;
+  color: #b4beca;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.main-content {
+  background-color: #282d35;
+  height: 30em;
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.list-items > li {
+  padding: 5px;
+  list-style-type: disc;
+  font-family: "Poppins", sans-serif;
+}
+.list-items > li::marker {
+    color: #5dd2f1;
+    font-size: 1.2em;
+}
